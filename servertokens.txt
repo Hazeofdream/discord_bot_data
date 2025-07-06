@@ -1,0 +1,29 @@
+https://battlelog.battlefield.com/bf4/servers/show/pc/ID_HERE
+// Turtles
+588b776f-4a9b-41e1-8411-fa9515074fe4
+// AAA
+28773abe-e620-4d36-9512-c6f4b128f0ad
+// TBG Locker
+f2617d06-97b3-4f17-9ff6-d5f198c6ec0a
+// TBG Rush
+d92edea6-19c3-472b-98bc-3df2ed3486c0
+// TBG Conquest
+09b57201-428d-4f0e-9f43-64b6d3d2a840
+// TBG BF2+BF3 Maps
+2829d36c-15f4-40f3-81f6-3bc8c111bd8a
+// Flubber
+4017883b-6477-49e2-9f85-8b18cd8b40b9
+// bZ11
+60cf8ba8-378a-44d0-8a60-86c56d204f2e
+// bZ13
+1711d97c-7302-4feb-a94f-e4e015019167
+// bZ3
+6b7db99d-583c-4375-bb98-1e9a486eabec
+// bZ4
+58421949-2dd6-4545-b49c-0d6639f5d3b1
+// bZ6
+0f4156d3-6af7-49e0-bac7-05ef86982bb8
+// RC1
+cfa68ec0-a030-4247-90e1-9b643a71edcd
+// RC3
+de2e60c6-159a-4a5b-b30d-a1ee51998a8d
