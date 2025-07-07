@@ -31,8 +31,6 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE
 1004296980877
 // LaddeR_RaptoR
 863074087
-// Paperclip
-368025245
 // KimJongFlew
 1008367812438
 // RedKilla7269
