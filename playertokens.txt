@@ -71,5 +71,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 361410867
 //  NOT_A_UCAVER
 993753877
-// COLUMBIANMATE
+// Colombian_Mate
 999782170
+//
+1005259404823
