@@ -1,7 +1,7 @@
 https://battlelog.battlefield.com/bf4/servers/show/pc/ID_HERE
-// Turtles
+// ! Turtles
 588b776f-4a9b-41e1-8411-fa9515074fe4
-// AAA
+// ! AAA
 28773abe-e620-4d36-9512-c6f4b128f0ad
 // [TBG] LOCKER ALL WEAPONS | DISCORD.TBGCLAN.COM
 f2617d06-97b3-4f17-9ff6-d5f198c6ec0a
@@ -11,7 +11,7 @@ d92edea6-19c3-472b-98bc-3df2ed3486c0
 09b57201-428d-4f0e-9f43-64b6d3d2a840
 // [TBG] BF2+BF3 MAPS + SILK + GOLMUD | DISCORD.TBGCLAN.COM
 2829d36c-15f4-40f3-81f6-3bc8c111bd8a
-// Flubber
+// ! Flubber
 4017883b-6477-49e2-9f85-8b18cd8b40b9
 // -bZ11- # 60HZ SIEGE 24/7 BANZORE.COM
 60cf8ba8-378a-44d0-8a60-86c56d204f2e
