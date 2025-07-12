@@ -82,7 +82,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // Calzaghe
 1003443685144
 // lBellion
-1007258353821
+1007258353821 > 1004962987222
 // lKarmic
 1004962987222
 // sacresful
