@@ -86,6 +86,6 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // lKarmic
 1004962987222
 // sacresful
-1009299426561
+1009299426561 > 1009299426561
 // Nurkol
 1153431526
