@@ -46,7 +46,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // PilotoNoob1001
 242042663
 // I-PaPuChuyito-I
-1041238903
+1041238903 > 1041238903
 // Frogtooth
 871582519
 // Alteredacer
