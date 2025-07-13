@@ -8,7 +8,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // iJp_
 1005991722173
 // yellow444
-224790737
+224790737 > 224790737
 // ManoPILAR
 1006759382684
 // MSVisualStudio
