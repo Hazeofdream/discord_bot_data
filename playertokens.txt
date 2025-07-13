@@ -8,7 +8,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // iJp_
 1005991722173
 // yellow444
-224790737
+224790737 > 993753877
 // ManoPILAR
 1006759382684
 // MSVisualStudio
@@ -72,7 +72,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 //  NOT_A_UCAVER
 993753877
 // Colombian_Mate
-999782170 > 993753877
+999782170
 //  Akula2QT
 1005259404823
 // The-Death-Sound
