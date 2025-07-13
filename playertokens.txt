@@ -50,7 +50,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // Frogtooth
 871582519
 // Alteredacer
-885485778
+885485778 > 1389681608
 // Gooncloon
 1605530206
 // Darth_UCAV
@@ -74,7 +74,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // Colombian_Mate
 999782170
 //  Akula2QT
-1005259404823 > 1005259404823
+1005259404823
 // The-Death-Sound
 1389681608
 // Woshi4nimenBaBa
