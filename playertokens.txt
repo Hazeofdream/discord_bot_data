@@ -67,8 +67,6 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 813162642
 // voIIIIy
 1009642132641
-// dfSatan
-361410867
 //  NOT_A_UCAVER
 993753877
 // Colombian_Mate
@@ -89,3 +87,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 1009299426561
 // Nurkol
 1153431526
+// ShadyLaughter
+1007362285858
+// MassiveMusclyMan
+1004757963249
