@@ -91,3 +91,17 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 1007362285858
 // MassiveMusclyMan
 1004757963249
+// JosneiDoEclipse
+1007083899021
+// Nimba4iC
+1689519595 > 1007083899021
+// AbrielParyunu
+1006355273924
+// MadSchrodinger
+1004097867653 > 1006355273924
+// AwakenedHilde
+1004994846958 > 1006355273924
+// juninnds
+1776830972
+// GOD-OF-TOW_01
+1959843963
