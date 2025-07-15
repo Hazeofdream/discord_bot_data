@@ -20,7 +20,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // ShivermeTimber5
 984371804
 // divljam
-1006709890385
+1006709890385 > 1009299426561
 // Cosmic-Benji
 1004324187257
 // IMK4l
