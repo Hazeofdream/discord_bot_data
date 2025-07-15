@@ -105,5 +105,3 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 1776830972
 // GOD-OF-TOW_01
 1959843963
-// test
-368860738 > 1959843963
