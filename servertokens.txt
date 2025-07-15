@@ -5,7 +5,7 @@ https://battlelog.battlefield.com/bf4/servers/show/pc/ID_HERE
 28773abe-e620-4d36-9512-c6f4b128f0ad
 // [TBG] LOCKER ALL WEAPONS
 f2617d06-97b3-4f17-9ff6-d5f198c6ec0a
-// [TBG]  RUSH ALL WEAPONS
+// [TBG] RUSH ALL WEAPONS
 d92edea6-19c3-472b-98bc-3df2ed3486c0
 // [TBG] CONQUEST ALL MAPS
 09b57201-428d-4f0e-9f43-64b6d3d2a840
