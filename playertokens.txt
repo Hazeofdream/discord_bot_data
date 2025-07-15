@@ -58,7 +58,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // DitchNcC
 1878405373
 // Darth_Yeet
-1074427658 > 1878405373
+1074427658
 // SpectreGarruss
 1004038172288
 // 20CC20
