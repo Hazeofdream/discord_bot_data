@@ -72,7 +72,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // Colombian_Mate
 999782170
 //  Akula2QT
-1005259404823
+1005259404823 > 999782170
 // The-Death-Sound
 1389681608
 // Woshi4nimenBaBa
