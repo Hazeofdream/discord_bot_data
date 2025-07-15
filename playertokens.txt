@@ -57,6 +57,8 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 953196982
 // DitchNcC
 1878405373
+// Darth_Yeet
+1074427658
 // SpectreGarruss
 1004038172288
 // 20CC20
@@ -89,5 +91,3 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 1007362285858
 // MassiveMusclyMan
 1004757963249
-// Darth Yeet Test
-1074427658 > 1004757963249
