@@ -50,7 +50,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // Frogtooth
 871582519
 // Alteredacer
-885485778
+885485778 > 871582519
 // Gooncloon
 1605530206
 // Darth_UCAV
