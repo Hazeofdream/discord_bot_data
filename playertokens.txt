@@ -121,3 +121,5 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 799748267
 // mexiscooI
 1665778256
+// flashwede
+flashswede
