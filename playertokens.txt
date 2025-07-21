@@ -109,3 +109,5 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 998561477
 // GalvatronESP
 263032587
+// ClaymoreAiken2 
+1717633672
