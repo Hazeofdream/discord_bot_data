@@ -25,3 +25,7 @@ d92edea6-19c3-472b-98bc-3df2ed3486c0
 0f4156d3-6af7-49e0-bac7-05ef86982bb8
 // BF 4 All - 24/7 Golmud Railway | 3200T | Fast V. Spawn | 60Hz
 00a90aa4-8830-46ab-8409-ada6c8bdb980
+//  SUPER@ [SiC] S6 Rush All Maps
+c9e53641-0332-4542-b6eb-010311bccdd3
+// SUPER@ [SiC] S4 Operation Metro 2014
+44fdefff-9ee1-403a-ab03-f814db22c099
