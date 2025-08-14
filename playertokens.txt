@@ -12,7 +12,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // ManoPILAR
 1006759382684
 // MSVisualStudio
-100497000831 > 900059028
+1004970008312 > 900059028
 // StoreBoughtSauce
 900059028
 // Hakata-Motsunnabe
@@ -153,5 +153,6 @@ flashswede
 1004061498444
 // EmilyMakisSlaps
 1005024451274
+
 
 
