@@ -13,6 +13,8 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 1006759382684
 // MSVisualStudio
 100497000831
+// StoreBoughtSauce
+900059028 > 100497000831
 // Hakata-Motsunnabe
 1838198922
 // NINJA-WARRIORR-X
@@ -151,3 +153,4 @@ flashswede
 1004061498444
 // EmilyMakisSlaps
 1005024451274
+
