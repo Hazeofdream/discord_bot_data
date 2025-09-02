@@ -27,3 +27,5 @@ c9e53641-0332-4542-b6eb-010311bccdd3
 44fdefff-9ee1-403a-ab03-f814db22c099
 // SUPER@ [SiC] S3 Conquest Popular Maps
 74cd6f06-a696-4157-979c-fb594f00362d
+// [E4GL] EU 60Hz All Maps CQ | Votemap | Vanilla + DLCs
+58fb3dfa-6e01-40c0-b4e8-d4bdeb07e646
