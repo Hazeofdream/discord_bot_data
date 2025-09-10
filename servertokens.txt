@@ -29,5 +29,3 @@ c9e53641-0332-4542-b6eb-010311bccdd3
 74cd6f06-a696-4157-979c-fb594f00362d
 // [E4GL] EU 60Hz All Maps CQ | Votemap | Vanilla + DLCs
 58fb3dfa-6e01-40c0-b4e8-d4bdeb07e646
-// [BF4C] Vanilla & DLCs | All Conquest Large
-86fd73d2-c37e-45a4-bac2-474b93cf7c56
