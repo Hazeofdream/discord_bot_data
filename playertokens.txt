@@ -1,112 +1,112 @@
 https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // WinterCinderTTV
-1008192453331
+1008192453331 * Doordash Enthusiast
 // Sailers_Prayer
-947823244
+947823244 * Jet Sweat
 // SkrubNorman
 1732383596
 // iJp_
-1005991722173
+1005991722173 * Jet Sweat
 // yellow444
-224790737
+224790737 * Jet Sweat, KimJongFlew's Farmer Buddy
 // ManoPILAR
-1006759382684
+1006759382684 * Jet Sweat
 // MSVisualStudio
 1004970008312 > 900059028
 // StoreBoughtSauce
-900059028
+900059028 * Little Bird Sweat
 // Hakata-Motsunnabe
-1838198922
+1838198922 * Jet Sweat
 // NINJA-WARRIORR-X
-1115274563
+1115274563 * Ground Vehicle Sweat, Streamer
 // ShivermeTimber5
-984371804
+984371804 * Jet Sweat
 // divljam
-1006709890385 > 1009299426561
+1006709890385 > 1009299426561 * Little Bird Sweat
 // Cosmic-Benji
-1004324187257
+1004324187257 * Little Bird Sweat
 // IMK4l
-1003732659582
+1003732659582 * Jet Sweat
 // Terminat0r_707
-914187253
+914187253 * Jet Sweat
 // M1_MacBook
-1004296980877
+1004296980877 * Little Bird Sweat
 // LaddeR_RaptoR
-863074087
+863074087 * Jet Sweat
 // KimJongFlew
-1008367812438
+1008367812438 * Jet Sweat
 // RedKilla7269
-316590630
+316590630 * UCAVer
 // Dodge_UK_225
-1008375861774
+1008375861774 * Viper Sweat
 // byCarlsJr
-358999896
+358999896 * Viper Sweat
 // SkyflareR32JPs
-1006843537340
+1006843537340 * Jet Sweat
 // Dan_of_Revoluton
 781197067
 // PilotoNoob1001
-242042663
+242042663 * Jet Sweat
 // I-PaPuChuyito-I
 1041238903
 // Frogtooth
-871582519
+871582519 * Frotoe
 // Alteredacer
-885485778
+885485778 * UCAVer
 // Gooncloon
-1605530206
+1605530206 * UCAVer, Alteredacer's Group
 // Darth_UCAV
-953196982
+953196982 * UCAVer, Alteredacer's Group
 // DitchNcC
-1878405373
+1878405373 * UCAVer, Alteredacer's Group
 // Darth_Yeet
-1074427658
+1074427658 * UCAVer, Alteredacer's Group
 // SpectreGarruss
-1004038172288
+1004038172288 * UCAVer, Alteredacer's Group
 // 20CC20
-1005773168503
+1005773168503 * Jet Sweat
 // foreverH1Z1
-813162642
+813162642 * UCAVer
 // voIIIIy
-1009642132641
+1009642132641 * Jet Sweat
 //  NOT_A_UCAVER
 993753877
 // Colombian_Mate
-999782170
+999782170 * Jet Sweat
 //  Akula2QT
-1005259404823
+1005259404823 * Jet Sweat
 // The-Death-Sound
-1389681608
+1389681608 * UCAVer
 // Woshi4nimenBaBa
-1007841684163
+1007841684163 * Jet Sweat
 // Calzaghe
-1003443685144
+1003443685144 * Ground Vehicle Farmer, Streamer
 // lBellion
-1007258353821 > 1004962987222
+1007258353821 > 1004962987222 * Jet Sweat
 // lKarmic
-1004962987222
+1004962987222 * Jet Sweat, Streamer
 // sacresful
-1009299426561
+1009299426561 * Little bird sweat, Frequents Calzaghe's Group
 // Nurkol
-1153431526
+1153431526 * Jet Sweat
 // ShadyLaughter
 1007362285858
 // MassiveMusclyMan
 1004757963249
 // JosneiDoEclipse
-1007083899021
+1007083899021 * Jet Sweat
 // Nimba4iC
-1689519595 > 1007083899021
+1689519595 > 1007083899021 * Jet Sweat
 // AbrielParyunu
-1006355273924
+1006355273924 * Jet Sweat
 // MadSchrodinger
-1004097867653 > 1006355273924
+1004097867653 > 1006355273924 * Jet Sweat
 // AwakenedHilde
-1004994846958 > 1006355273924
+1004994846958 > 1006355273924 * Jet Sweat
 // juninnds
-1776830972
+1776830972 * Jet Sweat
 // GOD-OF-TOW_01
-1959843963
+1959843963 * TOW Sweat
 // Drop_Heaven
 998561477
 // GalvatronESP
@@ -114,55 +114,55 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // ClaymoreAiken2 
 1717633672
 // fpsgodX
-239376336
+239376336 * Viper Sweat
 // Aquabird19
 1003792383035
 // Stinky__Wombat7
 1713542485
 // 311peeps
-799748267
+799748267 * UCAVer
 // mexiscooI
 1665778256
-// flashwede
-flashswede
+// flashswede
+1007270781585
 // powdermnky007
-190230920
+190230920 * Jet Sweat
 // Squidlo1
-1006499581670
+1006499581670 * Viper Sweat
 // CallsignCovfefe 
-1007461221365 > 1008367812438
+1007461221365 > 1008367812438 * Jet Sweat
 // IIImedioIII
-1004726618933
+1004726618933 * Viper Sweat, BF4C Admin
 // Noplat-CPA
-799333201
+799333201 * AA Sweat
 // Kannikin
-1750638639
+1750638639 * Jet Sweat
 // DOM4R14N
-1006752465310
+1006752465310 * AA
 // GasChef3391
-1006519552709
+1006519552709 * FBK
 // Exodium61
-1005302682378
+1005302682378 * FBK
 // KingChingTai
-894913494
+894913494 * Jet/Viper Sweat
 // MlNECRAFTSWORD
-1008259826046
+1008259826046 * RCB Sweat
 // ChokinOnAGIizzy
 876672915 > 1004324187257
 // TrumpGamingTV
 1004061498444
 // EmilyMakisSlaps
-1005024451274
+1005024451274 * Ground Vehicle Sweat
 // vuhn286
-594827043
+594827043 * Jet Sweat
 // AN94_addict
-658508603
+658508603 * Jet Sweat
 // Andenarios
-1007160229949
+1007160229949 * Ground Vehicle Sweat
 // DUDET0R
-356116662
+356116662 * Ground Vehicle Sweat
 // Kersplooshers
-1684551890
+1684551890 * Little Bird Sweat, Frequents Gravity's Group
 // stupid__aminal
 1003944193562
 // ReworkHelis
@@ -174,15 +174,15 @@ flashswede
 // trash
 1005800196948 > 1004962987222
 // Bundesschulamt
-1961114120
+1961114120 * Jet Sweat
 // muItiroIe
-1005481994761
+1005481994761 * Streamer Hieb
 // VehiclePlayer
 818059824 > 1005481994761
 // propitaI
-1006447238973
+1006447238973 * Ground Vehicle Sweat
 // FooeY
-365264851
+365264851 * Streamer, Frequent's Hieb and Calzaghe's Streams
 // desennium
 1776803482
 // oG_r_a_V_1_T_y
@@ -190,9 +190,8 @@ flashswede
 //esI-kun
 1004080449562 > 1684551890
 //  gIider
-1007194830627
+1007194830627 * Owner of BF4C, Coddles Streamers
 // IllBIack_RainllI
-853999178
+853999178 * Ground Vehicle Sweat
 // HOOVERlNG
-
-1006047377461
+1006047377461 * aka Sunny, Ground Vehicle Sweat, Frequents Hieb's Group
