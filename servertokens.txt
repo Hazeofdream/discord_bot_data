@@ -31,3 +31,5 @@ c9e53641-0332-4542-b6eb-010311bccdd3
 58fb3dfa-6e01-40c0-b4e8-d4bdeb07e646
 // #3 [E4GL] EU All Maps Rush | Votemap | Vanilla
 8c48d72e-e81c-47f1-8251-c3240293dd2a
+// !  [Blue] Rush Vanilla + DLCs | Votemap
+7db19d20-f4c6-494a-afd3-3ce98233168e
