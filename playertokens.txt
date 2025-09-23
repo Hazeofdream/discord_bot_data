@@ -4,7 +4,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // Sailers_Prayer
 947823244
 // SkrubNorman
-1732383596
+1732383596 * Gravity's Farmer Buddy
 // iJp_
 1005991722173
 // yellow444
@@ -156,7 +156,7 @@ flashswede
 // vuhn286
 594827043
 // AN94_addict
-658508603 * loser
+658508603
 // Andenarios
 1007160229949
 // DUDET0R
