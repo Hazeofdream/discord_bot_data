@@ -187,7 +187,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 1776803482
 // oG_r_a_V_1_T_y
 1707922019
-//esI-kun
+// esI-kun
 1004080449562 > 1684551890
 // gIider
 1007194830627 * Owner of BF4C, Coddles Streamers
@@ -203,3 +203,4 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 424305646
 // L0uisCipher
 1311538929 * Heli Farmer
+
