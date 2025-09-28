@@ -204,10 +204,11 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // L0uisCipher
 1311538929 * Heli Farmer
 // SlNGLEPLAYER
-1009758233392 * Heli Farmer
+1009758233392 > 1009299426561
 // zectoe
 1004510567016 * Farmer
 // RIDERDANK
 1872391908 * Backcap discount mntbob
 // object6261
 886451459
+
