@@ -10,11 +10,11 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // yellow444
 224790737 * Jet Sweat, KimJongFlew's Farmer Buddy
 // ManoPILAR
+// StoreBoughtSauce
+900059028 * Little Bird Sweat
 1006759382684 * Jet Sweat
 // MSVisualStudio
 1004970008312 > 900059028
-// StoreBoughtSauce
-900059028 * Little Bird Sweat
 // Hakata-Motsunnabe
 1838198922 * Jet Sweat
 // NINJA-WARRIORR-X
@@ -213,3 +213,4 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 886451459
 // Cow_Chicken
 1004596275787
+
