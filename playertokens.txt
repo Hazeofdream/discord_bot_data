@@ -213,6 +213,7 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 886451459
 // Cow_Chicken
 1004596275787
-
+// Char-Rem-Aznable
+1125241196
 
 
