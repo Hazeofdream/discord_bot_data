@@ -214,6 +214,6 @@ https://battlelog.battlefield.com/bf4/soldier/NAME_HERE/stats/ID_HERE/pc
 // Cow_Chicken
 1004596275787
 // Char-Rem-Aznable
-1125241196
-
-
+1125241196 * Jet Sweat
+// JigenDaisuke_19
+1805148633 * Friend of Char, RCB Sweat & Cowboy Bebop larper
